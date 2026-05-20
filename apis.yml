@@ -14,5 +14,9 @@ modified: '2026-05-05'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/wiley
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/john-wiley-and-sons
   - type: Website
     url: https://www.wiley.com/
