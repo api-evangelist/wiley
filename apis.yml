@@ -14,6 +14,10 @@ modified: '2026-05-05'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/wiley-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/wiley-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/wiley
   - type: LinkedIn
