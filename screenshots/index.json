@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "wiley",
+    "captured_at": "2026-10-11T194728",
+    "source_url": "https://www.wiley.com/",
+    "source_type": "Website",
+    "file": "wiley-2026-10-11T194728.png",
+    "bytes": 437532,
+    "capture": "playwright-local"
+  }
+]
